@@ -11,6 +11,6 @@ has details on the operation of the device and software.
 
 We welcome contributions of improvements or bug fixes to the code. Please be concious of the
 requirement for backwards compatability until major version releases to keep our product
-running smoothly for the many users of the earthquake machine worldwide.
+running smoothly for the many users of the creep deformation apparatus worldwide.
 
 ANY CHANGES YOU MAKE TO THIS CODE ARE MADE AT YOUR OWN RISK!
